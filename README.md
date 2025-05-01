@@ -30,7 +30,3 @@ This repo demonstrates:
 - QA mindset oriented toward release stability and business value
 
 ---
-
-**Rodion Petrushevskyi**  
-📧 arseodion@gmail.com  
-📍 Remote 
