@@ -12,6 +12,8 @@ Manual test cases based on real-world product flows:
 - `analytics_dashboard_cases.md` – data display and filters
 - `sql_data_validation.md` – database accuracy testing
 - `api_user_management.md` – REST API endpoint testing
+-  `profile_settings_test_cases.md` - user setting
+  
 
 ### 🔹 `/checklists/`
 Reusable checklists for day-to-day QA work:
