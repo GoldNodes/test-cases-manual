@@ -13,6 +13,7 @@ Manual test cases based on real-world product flows:
 - `sql_data_validation.md` – database accuracy testing
 - `api_user_management.md` – REST API endpoint testing
 -  `profile_settings_test_cases.md` - user setting
+-  `notifications_test_cases.md` - validate that the notification system functions correctly
   
 
 ### 🔹 `/checklists/`
@@ -30,5 +31,3 @@ This repo demonstrates:
 - Attention to product quality from UI to backend
 - Experience with SQL, Postman, Docker, and test tools
 - QA mindset oriented toward release stability and business value
-
----
