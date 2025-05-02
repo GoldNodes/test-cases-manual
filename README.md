@@ -1,4 +1,4 @@
-# QA Test Portfolio – Rodion Petrushevskyi
+#  Test-cases and checklists portfolio – Rodion Petrushevskyi
 
 Welcome to my QA portfolio. This repository presents a curated collection of **manual test cases**, **checklists**, and **API testing samples** that reflect my experience as a **Senior Manual QA Engineer** with 4+ years in the industry.
 
